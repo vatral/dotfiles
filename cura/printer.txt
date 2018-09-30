@@ -1,0 +1,14 @@
+300x200x200
+Heated bed
+Marlin
+Extruders: 2
+
+Nozzle size: 0.4
+Material: 1.75
+
+Nozzle Offset X: 2.0mm
+Nozzle Offset Y: -1.4mm
+
+Flow: 82%
+Retraction distance: 6.5mm, 25mm/s; 3mm,30mm/s
+
