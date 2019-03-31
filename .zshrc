@@ -72,6 +72,8 @@ powerline-daemon -q
 alias ls='ls --color=auto'
 alias dir='ls -l --color=auto'
 
+if [ -x "/usr/bin/kitty" ] ; then
+	kitty + complete setup zsh | source /dev/stdin
+fi
 
-kitty + complete setup zsh | source /dev/stdin
 
