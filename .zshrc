@@ -1,3 +1,7 @@
+
+export PATH=$HOME/.cargo/bin:$PATH
+
+
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=10000
